@@ -1,0 +1,24 @@
+body {
+    background-color: #292ceb ;
+    color: white;
+}
+
+footer {
+    background-color: rgba(2, 1, 20, 0.836);
+}
+
+/*Imagenes del carousel*/
+.carousel-inner img {
+    height: 300px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+.card {
+    color: black;
+    margin: 20px;
+}
